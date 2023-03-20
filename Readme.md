@@ -1,0 +1,1 @@
+Unlike the Canvas 2d API, webgl starts drawing the drawings from the lower left corner of the screen. Webgl is already very complex compared to 2d API. This code helps you to scale webgl like 2d.
